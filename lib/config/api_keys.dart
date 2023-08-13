@@ -1,2 +1,2 @@
-const String apiKey = "AIzaSyDEclDUHTlIQVJ7UHqL3GmZNNxsqyBMXaQ";
-const String contextKey = "27ce804d893854b7e";
+const String apiKey = "THE-API-KEY-IS-BEING-HIDDEN-DUE-TO-SECURITY-PURPOSES";
+const String contextKey = "THE-KEY-IS-BEING-HIDDEN-DUE-TO-SECURITY-PURPOSES";

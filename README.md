@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Google-Clone
 A Working Google Search clone made using Flutter 
 =======

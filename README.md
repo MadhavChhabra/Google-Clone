@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Google-Clone
-A Google Search clone made using flutter and dart
+A Working Google Search clone made using Flutter 
 =======
 # google_clone_project
 
